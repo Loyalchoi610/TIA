@@ -5,9 +5,7 @@ Today I am : 내가 누군지 알면 된다
 
 <a href="self-introduction/self-introduction.md">성격의 장단점</a>
 
-<a href="self-introduction/self-introduction.md">취미</a>
-
-<a href="self-introduction/self-introduction.md">특기</a>
+<a href="self-introduction/self-introduction.md">취미와 특기</a>
 
 <a href="self-introduction/self-introduction.md">존경하는 인물</a>
 
